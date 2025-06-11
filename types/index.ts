@@ -13,6 +13,8 @@ export interface CarProps {
   model: string;
   transmission: string;
   year: number;
+  image?: string;
+  images?: string[];
 }
 
 export interface FilterProps {

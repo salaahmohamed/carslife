@@ -52,10 +52,9 @@ export const yearsOfProduction = [
   { title: "2020", value: "2020" },
   { title: "2021", value: "2021" },
   { title: "2022", value: "2022" },
-  { title: "2023", value: "2023" },
+  { title: "2025", value: "2025" },
   { title: "2024", value: "2024" },
   { title: "2025", value: "2025" },
-
 ];
 export const fuels = [
   {

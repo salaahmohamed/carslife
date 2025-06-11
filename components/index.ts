@@ -5,6 +5,7 @@ import Footer from "./Footer";
 import NavBar from "./Navbar";
 import ShowMore from "./ShowMore";
 import SearchBar from "./Searchbar";
+import ClearButton from "./ClearButton";
 import Hero from "./Hero";
 
 export {
@@ -16,4 +17,5 @@ export {
   NavBar,
   ShowMore,
   SearchBar,
+  ClearButton,
 };
