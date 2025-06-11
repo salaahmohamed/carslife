@@ -42,11 +42,9 @@ const CarCard = ({ car }: CarCardProps) => {
       </p>
 
       <div className="relative object-contain w-full h-40 my-3">
-        <Image
+        <img
           src={getSafeImage(car.image)}
           alt={`${car.make} ${car.model}`}
-          fill
-          priority
           className="object-contain"
         />
       </div>
